@@ -38,6 +38,9 @@ body {
     text-decoration: none;
    
 }
+.navitem {
+    padding: 0 1em;
+}
 
 /* Product Grid */
 .product-grid {
