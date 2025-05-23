@@ -1,1 +1,1 @@
-# coding-project-template
+Public test site viewable at: https://x-continuumlabs-x.github.io/e-plantShopping/
